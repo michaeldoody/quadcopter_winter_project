@@ -1,2 +1,0 @@
--include $(ROOT_DIR)/make/3rdparty/osgearth/osgearth.mk
--include $(ROOT_DIR)/make/3rdparty/marble/marble.mk
