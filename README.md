@@ -12,6 +12,8 @@ The quadcopter that was designed for this project is flown with an RC transmitte
 7. Have fun flying!
 8. When finished, slowly throttle down for a soft landing.
 
+![Image of Quadrotor](images/drone.png)
+
 ## Materials
 - F450 Quadcopter Frame Kit
 - 4 Propellers (plus extras)
