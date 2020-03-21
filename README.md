@@ -11,3 +11,14 @@ The quadcopter that was designed for this project is flown with an RC transmitte
 6. Keep the pitch and roll controls centered as you gently throttle up to several feet off the ground.
 7. Have fun flying!
 8. When finished, slowly throttle down for a soft landing.
+
+## Materials
+- F450 Quadcopter Frame Kit
+- 4 Propellers (plus extras)
+- 4 1000KV Brushless Motors
+- 4 30A Electronic Speed Controllers
+- CC3D Flight Controller
+- 2.4GHz 6 Channel Digital Transmitter and Receiver
+- 2700mAh 3s LiPo Battery
+- XT60 Plug Male and Female Connector
+- Battery Balance Charger / Discharger
