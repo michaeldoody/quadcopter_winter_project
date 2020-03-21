@@ -24,3 +24,7 @@ The quadcopter that was designed for this project is flown with an RC transmitte
 - 2700mAh 3s LiPo Battery
 - XT60 Plug Male and Female Connector
 - Battery Balance Charger / Discharger
+
+## Software
+For this project, I used the open source program, LibrePilot, to calibrate the flight controller, ESCs, and trasmitter. LibrePilot can be downloaded [here](https://librepilot.atlassian.net/wiki/spaces/LPDOC/pages/4128780/Downloads).
+I used [example code](examples/example.py) from the LibrePilot source code to attempt autonomous communication between a Raspberry Pi and the flight controller. However, writing over serial to the flight controller proved to be a challenge. 
