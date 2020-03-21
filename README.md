@@ -29,7 +29,7 @@ The quadcopter that was designed for this project is flown with an RC transmitte
 ![Image of Block Diagram](images/block_diagram.png)
 
 ## Receiver and Motor Diagram
-![Image of Receiver and Motor Diagram](images/motor_receiver_crop.png)
+![Image of Receiver and Motor Diagram](images/motor_receiver_diagram.png)
 
 ## Software
 For this project, I used the open source program, LibrePilot, to calibrate the flight controller, ESCs, and trasmitter. LibrePilot can be downloaded [here](https://librepilot.atlassian.net/wiki/spaces/LPDOC/pages/4128780/Downloads).
